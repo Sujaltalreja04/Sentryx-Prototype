@@ -1,3 +1,6 @@
+import os
+os.environ['TORCH_WEIGHTS_ONLY'] = 'False'
+
 import streamlit as st
 from ultralytics import YOLO
 import cv2
