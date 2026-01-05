@@ -4,4 +4,6 @@ opencv-python-headless==4.9.0.80
 pillow==10.4.0
 plotly==5.18.0
 numpy==1.26.3
+torch==2.5.1
+torchvision==0.20.1
 
